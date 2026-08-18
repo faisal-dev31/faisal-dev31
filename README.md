@@ -1,4 +1,4 @@
-![I am faisal](https://github.com/faisal-dev31/edit/main/code.png)
+![I am Faisal](https://github.com/faisal-dev31/edit/main/code.png)
 
 <h1 align="center">Hi 👋, I'm SAKIR ALAM FAISAL</h1>
 <h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
@@ -66,10 +66,10 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![faisal-dev31](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
+[![faisal-dev31](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/)
 
 <p align="left">
   <a href="https://github.com/faisal-dev31?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
