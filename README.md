@@ -66,10 +66,10 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/weblitical)
+[![faisal-dev31](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/faisal-dev31)
 
 <p align="left">
   <a href="https://github.com/faisal-dev31?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -103,13 +103,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/faisal-dev31" target="_blank">
+<a href="https://twitter.com/@SakirFaisal628" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/faisal-dev31/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/faisal-dev31" target="_blank">
+<a href="https://www.facebook.com/sakir Faisal" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
