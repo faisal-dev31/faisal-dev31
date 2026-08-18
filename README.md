@@ -1,4 +1,4 @@
-![I am faisal-dev31](https://github.com/faisal-dev31/faisal-dev31/edit/main/code.png)
+![I am faisal-dev31](https://github.com/faisal-dev31/edit/main/code.png)
 
 <h1 align="center">Hi 👋, I'm SAKIR ALAM FAISAL</h1>
 <h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
