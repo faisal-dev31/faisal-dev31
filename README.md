@@ -66,7 +66,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![faisal-dev31](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
+[![Faisal](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31)
 [![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=faisal-dev31&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/faisal-dev31/)
