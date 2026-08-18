@@ -1,4 +1,4 @@
-![I am Faisal](https://github.com/faisal-dev31/faisal-dev31/blob/main/code-logo-73-14859.png)
+![I am Faisal](https://github.com/faisal-dev31/faisal-dev31/blob/main/blog-github.png)
 
 <h1 align="center">Hi 👋, I'm SAKIR ALAM FAISAL</h1>
 <h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
